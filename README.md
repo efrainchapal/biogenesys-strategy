@@ -56,10 +56,10 @@ El análisis permitió perfilar las ubicaciones óptimas para la expansión de B
 
 El repositorio está organizado de la siguiente manera para facilitar su navegación y entendimiento:
 
-*-Notebooks/         # Contiene los Jupyter Notebooks con el código de análisis
-*-Power_bi/          # Contiene el archivo .pbix del dashboard
-*-Reports/           # Contiene el informe final del proyecto
-*-README.md
+`-Notebooks/         # Contiene los Jupyter Notebooks con el código de análisis
+-Power_bi/          # Contiene el archivo .pbix del dashboard
+-Reports/           # Contiene el informe final del proyecto
+-README.md`
 
 ## 8. Cómo Replicar este Proyecto
 
