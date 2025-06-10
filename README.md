@@ -13,7 +13,7 @@ Este proyecto presenta un análisis de datos sobre el impacto de la pandemia de 
 
 ## 2. Contexto del Negocio
 
-En un escenario post-pandemia, BIOGENESYS busca expandir sus operaciones para mejorar el acceso a vacunas y tratamientos en la región. Una decisión de expansión de esta magnitud requiere una inversión significativa, por lo que es crucial basarla en evidencia sólida. Este análisis provee el fundamento cuantitativo para minimizar el riesgo y maximizar el impacto de la inversión.
+En este escenario, BIOGENESYS busca expandir sus operaciones para mejorar el acceso a vacunas y tratamientos en la región. Una decisión de expansión de esta magnitud requiere una inversión significativa, por lo que es crucial basarla en evidencia sólida. Este análisis provee el fundamento cuantitativo para minimizar el riesgo y maximizar el impacto de la inversión.
 
 ## 3. Fuente de Datos
 
@@ -56,20 +56,19 @@ El análisis permitió perfilar las ubicaciones óptimas para la expansión de B
 
 El repositorio está organizado de la siguiente manera para facilitar su navegación y entendimiento:
 
-├── notebooks/         # Contiene los Jupyter Notebooks con el código de análisis
-├── power_bi/          # Contiene el archivo .pbix del dashboard
-├── reports/           # Contiene el informe final del proyecto
-├── README.md
+*-Notebooks/         # Contiene los Jupyter Notebooks con el código de análisis
+*-Power_bi/          # Contiene el archivo .pbix del dashboard
+*-Reports/           # Contiene el informe final del proyecto
+*-README.md
 
 ## 8. Cómo Replicar este Proyecto
 
 1.  Clona este repositorio en tu máquina local.
-2.  Crea un entorno virtual e instala las dependencias listadas en el archivo `requirements.txt` usando el comando: `pip install -r requirements.txt`.
-3.  Ejecuta los Jupyter Notebooks en la carpeta `notebooks/` en orden numérico para seguir el flujo de trabajo del análisis.
-4.  Abre el archivo `.pbix` en la carpeta `power_bi/` con Power BI Desktop para explorar el dashboard interactivo.
+2.  Ejecuta el Jupyter Notebook en la carpeta `notebooks/` para seguir el flujo de trabajo del análisis.
+3.  Abre el archivo `.pbix` en la carpeta `power_bi/` con Power BI Desktop para explorar el dashboard interactivo.
 
 ## 9. Autor
 
-* **[Tu Nombre Completo]**
+* **Efrain Chapal**
     * [LinkedIn](https://www.linkedin.com/in/efrainchapal)
     * [GitHub](https://github.com/efrainchapal)
