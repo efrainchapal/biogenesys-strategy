@@ -54,13 +54,13 @@ El análisis permitió perfilar las ubicaciones óptimas para la expansión de B
 
 ## 7. Estructura del Repositorio
 
-El repositorio está organizado de la siguiente manera para facilitar su navegación y entendimiento:
+```El repositorio está organizado de la siguiente manera para facilitar su navegación y entendimiento:
 
-`-Notebooks/         # Contiene los Jupyter Notebooks con el código de análisis
--Power_bi/          # Contiene el archivo .pbix del dashboard
--Reports/           # Contiene el informe final del proyecto
--README.md`
-
+  -Notebooks/         # Contiene los Jupyter Notebooks con el código de análisis
+  -Power_bi/          # Contiene el archivo .pbix del dashboard
+  -Reports/           # Contiene el informe final del proyecto
+  -README.md
+```
 ## 8. Cómo Replicar este Proyecto
 
 1.  Clona este repositorio en tu máquina local.
